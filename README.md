@@ -15,7 +15,7 @@ or you can include the following in your composer.json file:
 ```json
 {
     "require": {
-        "checkit/fpdf": "1.8.1"
+        "checkitsedo/fpdf": "1.8.1"
     }
 }
 ```
