@@ -14,7 +14,7 @@
         },
         {
             "name": "Dominik Senti",
-            "email": "dominik@email.com",
+            "email": "dominik@email.com"
         }
     ],
     "autoload": {
